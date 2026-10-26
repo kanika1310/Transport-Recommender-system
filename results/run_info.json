@@ -1,0 +1,20 @@
+{
+  "data": "data/trips_synthetic.csv",
+  "rows": 1500,
+  "classes": [
+    "auto",
+    "bike",
+    "bus",
+    "cab",
+    "metro"
+  ],
+  "class_counts": {
+    "bus": 456,
+    "metro": 351,
+    "auto": 324,
+    "cab": 314,
+    "bike": 55
+  },
+  "folds": 5,
+  "seed": 42
+}
