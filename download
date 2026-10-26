@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# keep generated results out of git if you prefer; remove these lines to commit them
+# results/*.png
